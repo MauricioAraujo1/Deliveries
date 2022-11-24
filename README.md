@@ -47,4 +47,6 @@ yarn dev
 ```
 yarn prisma studio
 ```
+  
+  Você pode utilizar o Insomnia ou Postman para visualizar suas requisições, testar e atualizar informações do cliente, deliveries ou entregador.
 </span>
