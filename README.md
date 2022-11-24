@@ -1,18 +1,20 @@
-<h4 align="center" dir="auto">⚔Bem-Vindo ao PokeApp⚔</h4>
+<h4 align="center" dir="auto">⚔Bem-Vindo ao Sistema de Deliveries⚔</h4>
 
 # 💻 Descrição do Projeto
 
-PokeApp é uma aplicação mobile onde o usuário pode encontrar pokemons na Pokedex, e avaliar cada uma, conforme as suas habilidades, vida, ataque, defesa, atque-especial, defesa-especial e velocidade. 
+Nesta aplicação, teremos de um lado o cliente - que irá se cadastrar e cadastrar itens para serem entregues em determinada localização - e, do outro, o entregador - que poderá pegar ou não determinada entrega para ser realizada. 
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [ ] [TypeScript]
-- [ ] [Styled-components]
-- [ ] [React Native]
-- [ ] [Axios]
-- [ ] [Expo]
+- [ ] [PrismaIO
+- [ ] [NodeJS]
+- [ ] [JWT]
+- [ ] [Express]
+- [ ] [Docker]
+- [ ] [Postgresql]
 
 
 
