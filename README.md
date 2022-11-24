@@ -9,7 +9,7 @@ Nesta aplicação, teremos de um lado o cliente - que irá se cadastrar e cadast
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [ ] [TypeScript]
-- [ ] [PrismaIO
+- [ ] [PrismaIO]
 - [ ] [NodeJS]
 - [ ] [JWT]
 - [ ] [Express]
