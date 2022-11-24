@@ -50,3 +50,12 @@ yarn prisma studio
   
   Você pode utilizar o Insomnia ou Postman para visualizar suas requisições, testar e atualizar informações do cliente, deliveries ou entregador.
 </span>
+
+# 🤝 Suporte 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/myPortfolio/issues).
+
+# 👤 Autor
+**🕵 Maurício Araújo**
+
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
