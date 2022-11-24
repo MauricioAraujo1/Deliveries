@@ -52,7 +52,7 @@ yarn prisma studio
 </span>
 
 # 🤝 Suporte 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/myPortfolio/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Deliveries/issues).
 
 # 👤 Autor
 **🕵 Maurício Araújo**
