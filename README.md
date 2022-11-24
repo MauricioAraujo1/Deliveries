@@ -22,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🚀 Como executar o projeto
 
 <h3>Pré-requisitos</h3>
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: expo-cli, node, e também você precisa instalar o yarn.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: docker, node, e também você precisa instalar o yarn.
 
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
