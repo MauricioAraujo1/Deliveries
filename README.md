@@ -27,17 +27,17 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/PokeApp.git
+https://github.com/MauricioAraujo1/Deliveries
 ```
 
-<h3>🧭 Rodando a aplicação mobile</h3>
+<h3>🧭 Rodando a aplicação back-end</h3>
 
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
 ```
-cd pokerub
-npm install
-npm start
+cd backend-deliveries
+yarn install
+yarn dev
 
 ```
 <span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: npm start ou expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei!</span>
