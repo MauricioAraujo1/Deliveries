@@ -37,7 +37,14 @@ https://github.com/MauricioAraujo1/Deliveries
 ```
 cd backend-deliveries
 yarn install
-yarn dev
-
 ```
-<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa criar um container no docker e rodar ele. Depois disso, você vai no terminal do seu vscode e escreva: yarn dev. E logo após isso você poderá ver o banco de dados do seu código escrevendo o comando: yarn prisma studio</span>
+<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa criar um container no docker e rodar ele. Depois disso, você vai no terminal do seu vscode e escreva: 
+```
+yarn dev
+```
+  
+  E logo após isso você poderá ver o banco de dados do seu código escrevendo o comando: 
+```
+yarn prisma studio
+```
+</span>
